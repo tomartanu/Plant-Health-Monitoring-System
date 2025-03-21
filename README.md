@@ -10,7 +10,7 @@ This **Plant Health Monitoring System** is an embedded solution designed to moni
 
 ✅ LCD Display with I2C – Shows live sensor readings for easy monitoring
 
-✅ Standalone Operation – Powered by a 5V lithium-ion battery, no internet required
+✅ Standalone Operation – Powered by a 5V lithium-ion battery
 
 ✅ Energy Efficient – Optimized for minimal power consumption
 
